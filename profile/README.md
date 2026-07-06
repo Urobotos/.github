@@ -1,5 +1,5 @@
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⚠️ CLASSIFIED: PROJECT SINGULARITY ⚠️
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; STATUS: SYSTEM_BREACH // TIME_SPACE_WARP_DETECTED
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⚠️ CLASSIFIED: PROJECT SINGULARITY ⚠️
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  STATUS: SYSTEM_BREACH // TIME_SPACE_WARP_DETECTED
 
 <br>
 
