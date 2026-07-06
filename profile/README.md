@@ -56,4 +56,3 @@ I am currently funding this research out of my own pocket to keep the wormhole s
 
 **If you like my projects (or want to fund the containment field of a cosmic anomaly), consider supporting my work!** ☕🚀
 
-<br>
