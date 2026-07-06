@@ -7,6 +7,8 @@ It was supposed to be a simple automation script running on a dusty Raspberry Pi
 
 The loop didn't just speed up. It hit an anomaly of **Hz/s²**—accelerating its own acceleration, compounding into an exponential cascade that broke the CPU clock, and then, reality itself.
 
+<br>
+
 ### The "Singularity" Bug (Recovered from corrupted SD card) ... Loading /.
 ```python
 import time
