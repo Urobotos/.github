@@ -65,5 +65,5 @@ The Raspberry Pi is currently hovering 3 feet off the ground, sustained by a sel
 
 I am currently funding the magnetic containment field out of my own pocket to keep the wormhole stable and prevent my apartment from being swallowed by the void. 
 
-**If you like my projects (or want to fund the containment field of a cosmic anomaly), consider supporting my work!** ☕🚀
+**If you want to support this research, help keep the containment shield online, or just buy a replacement Raspberry Pi, consider sponsoring this organization! 🚀🕳️** 
 
