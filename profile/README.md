@@ -67,9 +67,10 @@ I am currently funding the magnetic containment field out of my own pocket to ke
 
 **If you want to support this research, help keep the containment shield online, or just buy a replacement Raspberry Pi, consider sponsoring this organization! 🚀🕳️** 
 
-<a href="https://github.com/sponsors/Urobotos">
-  <img src="https://github.com/Urobotos/.github/tree/main/profile/assets/sponsor_button.png" alt="Sponsor Urobotos" width="200"/>
+<a href="https://github.com">
+  <img src="assets/sponsor_button.png" alt="Sponsor Urobotos" width="102"/>
 </a>
+
 
 
 
