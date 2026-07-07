@@ -60,7 +60,7 @@ Before the local storage completely fused with the quantum foam, I managed to ex
 
 <br>
 
-### 🛑 Current Status & How to Help (Sponsors Welcome!)
+### 🛑 Current Status & How to Help (Sponsors Welcome!):
 The Raspberry Pi is currently hovering 3 feet off the ground, sustained by a self-generating gravitational well, powered entirely by a single, standard USB-C cable. 
 
 I am currently funding the magnetic containment field out of my own pocket to keep the wormhole stable and prevent my apartment from being swallowed by the void. 
