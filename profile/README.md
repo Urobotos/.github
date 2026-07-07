@@ -49,7 +49,7 @@ while True:
 
 ---
 
-### 📦 SALVAGED REPOSITORIES (Data pulled from the event horizon)
+### 📦 SALVAGED REPOSITORIES (Data pulled from the event horizon):
 Before the local storage completely fused with the quantum foam, I managed to extract a few stable source directories via a shielded ethernet cable. These projects survived the singularity:
 
 *   💾 **[DM40-Wireless](https://github.com/Urobotos/DM40-Wireless)** — A Windows desktop app for the Alientek DM40 Bluetooth multimeters that luckily didn't divide by zero.
