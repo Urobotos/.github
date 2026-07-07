@@ -65,7 +65,7 @@ The Raspberry Pi is currently hovering 3 feet off the ground, sustained by a sel
 
 I am currently funding the magnetic containment field out of my own pocket to keep the wormhole stable and prevent my apartment from being swallowed by the void. 
 
-**If you want to support this research, help keep the containment shield online, or just buy a replacement Raspberry Pi, consider sponsoring this organization! 🚀🕳️** 
+**If you want to support this research, help keep the containment shield online, or just buy an Arduino replacement for my Raspberry Pi, consider sponsoring this organization! 🚀🕳️** 
 
 <a href="https://github.com/sponsors/Urobotos">
   <img src="assets/sponsor_button.png" alt="Sponsor Urobotos" width="102"/>
