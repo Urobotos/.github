@@ -49,10 +49,21 @@ while True:
 
 ---
 
+### 📦 SALVAGED REPOSITORIES (Data pulled from the event horizon)
+Before the local storage completely fused with the quantum foam, I managed to extract a few stable source directories via a shielded ethernet cable. These projects survived the singularity:
+
+*   💾 **[DM40-Wireless](https://github.com/Urobotos/DM40-Wireless)** — A Windows desktop app for the Alientek DM40 Bluetooth multimeters that luckily didn't divide by zero.
+*   🛠️ **[Sandworm](https://github.com/Urobotos/Sandworm)** — Klipper macros for Sandworm 3D printer rescued seconds before the gravitational shift.
+*   🤖 **[Arduino-USB-RGB-LED-Controller](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller)** — Arduino Nano on Android, experimental RGB led scripts. Use with caution. Do not accelerate.
+
+---
+
+<br>
+
 ### 🛑 Current Status & How to Help (Sponsors Welcome!)
 The Raspberry Pi is currently hovering 3 feet off the ground, sustained by a self-generating gravitational well, powered entirely by a single, standard USB-C cable. 
 
-I am currently funding this research out of my own pocket to keep the wormhole stable and prevent my apartment from being swallowed by the void. 
+I am currently funding the magnetic containment field out of my own pocket to keep the wormhole stable and prevent my apartment from being swallowed by the void. 
 
 **If you like my projects (or want to fund the containment field of a cosmic anomaly), consider supporting my work!** ☕🚀
 
